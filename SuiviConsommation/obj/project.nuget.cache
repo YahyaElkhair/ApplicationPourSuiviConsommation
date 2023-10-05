@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiXm6B2wRzBhU2NDvjrcNmPm8B6h0RRgxx3MwWygCQhhe1SSv27rXo9/Intko/kKM0nrCZpnX6/6RAXu9LXG4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yahya\\OneDrive\\Bureau\\ALL\\RapportStage\\Suivi_Consommation-20230909T220447Z-001\\Suivi_Consommation\\SuiviConsommation\\SuiviConsommation.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yahya\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\yahya\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\yahya\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\yahya\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\yahya\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\yahya\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\yahya\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\yahya\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\yahya\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
